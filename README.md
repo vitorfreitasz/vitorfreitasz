@@ -14,7 +14,6 @@ class Skills extends Developer {
 }
 ``` 
 
-<br>
 
 ##  Skills 🦾
 
@@ -29,7 +28,6 @@ class Skills extends Developer {
   <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
 </p>
 
-<br>
 
 ## Visitors 👋☕
 
@@ -37,7 +35,6 @@ class Skills extends Developer {
 
 ![VisitorCount](https://profile-counter.glitch.me/{vitorfreitasz}/count.svg)
 
-<br>
 
 ## Stats 📊
 
@@ -46,7 +43,6 @@ class Skills extends Developer {
 [![vitorfreitasz](https://github-readme-stats.vercel.app/api?username=vitorfreitasz&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)      
 [![vitorfreitasz](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfreitasz&hide=html&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
 ## Contact 💼
 
