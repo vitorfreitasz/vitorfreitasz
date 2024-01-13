@@ -66,8 +66,7 @@ class Skills extends Developer {
 ## Stats 📊
 
 <br>
-
-[![vitorfreitasz](https://github-readme-stats.vercel.app/api?username=vitorfreitasz&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)      
+    
 [![vitorfreitasz](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfreitasz&hide=html&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
