@@ -13,14 +13,21 @@ class Skills extends Developer {
   frameworks = ['graphics.py',
                 'Django',
                 'MongoDB',
-                'bootstrap',
-                'ReactJS',
+                'Bootstrap',
+                'Styled-Components',
+                'ReactJs',
+                'React-Native',
                 'NodeJs',
                 'ExpressJs',
                 'Axios',
                 'TypeORM',
                 'MySQL'];
-  technologies - ['Postman', 'Render', 'Atlas']
+  
+  technologies - ['Git',
+                  'Postman',
+                  'Render',
+                  'Atlas',
+                  'Dbeaver'];
 }
 ``` 
 
@@ -29,14 +36,24 @@ class Skills extends Developer {
 
 <br>
 
-<p>
-  <img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="25" height="25" /> 
-  <img src="https://user-images.githubusercontent.com/59575502/127426309-0b2bbd98-9756-4798-ad10-f60da4a4d5fb.png" alt="html5" width="25" height="25" />
-  <img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="25" height="25" />
-  <img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="25" height="25" />
-  <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
-  <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
-</p>
+
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![Php](https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=blue)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React_Native-4bb9d6?style=for-the-badge&logo=react&logoColor=20232A)
+![StyledComponents](https://img.shields.io/badge/Styled_Components-5c4757?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.Js-323330?style=for-the-badge&logo=node.js&logoColor=green)
+![MySql](https://img.shields.io/badge/MySql-1b1f45?style=for-the-badge&logo=mysql&logoColor=orange)
+![Dbeaver](https://img.shields.io/badge/Dbeaver-261b15?style=for-the-badge&logo=dbeaver&logoColor=orange)
+![Dbeaver](https://img.shields.io/badge/Axios-f3f3f3?style=for-the-badge&logo=axios&logoColor=purple)
+![Dbeaver](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+
 
 
 ## Visitors 👋☕
