@@ -10,6 +10,7 @@ class Bio extends Developer {
 
 class Skills extends Developer {
   languages  = ['Javascript', 'Typescript', 'Python', 'HTML5', 'CSS3', 'SQL', 'PHP'];
+}
 ``` 
 
 
