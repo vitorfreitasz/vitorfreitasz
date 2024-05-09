@@ -9,26 +9,7 @@ class Bio extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['Python', 'HTML5', 'CSS3', 'Javascript', 'Typescript', 'SQL', 'PHP'];
-  frameworks = ['graphics.py',
-                'Django',
-                'MongoDB',
-                'Bootstrap',
-                'Styled-Components',
-                'ReactJs',
-                'React-Native',
-                'NodeJs',
-                'ExpressJs',
-                'Axios',
-                'TypeORM',
-                'MySQL'];
-  
-  technologies - ['Git',
-                  'Postman',
-                  'Render',
-                  'Atlas',
-                  'Dbeaver'];
-}
+  languages  = ['Javascript', 'Typescript', 'Python', 'HTML5', 'CSS3', 'SQL', 'PHP'];
 ``` 
 
 
