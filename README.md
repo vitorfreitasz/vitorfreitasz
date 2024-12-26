@@ -1,18 +1,9 @@
-## About me 🔗
-```js
-import Developer from 'vitorfreitasz';
+### Olá 👋
 
-class Bio extends Developer {
-  name     = 'Vitor de Ávila Freitas';
-  title    = 'Developer';
-  location = 'Rio Grande, RS';
-}
 
-class Skills extends Developer {
-  languages  = ['Javascript', 'Typescript', 'Python', 'HTML5', 'CSS3', 'SQL', 'PHP'];
-}
-``` 
+- Olá, me chamo Vitor! Tenho 21 anos e mais de um ano de experiência profissional no desenvolvimento de software. Atualmente, estou cursando Sistemas de Informação na Universidade Federal do Rio Grande (Furg) e trabalho como desenvolvedor back-end no ITec.
 
+- Minha trajetória inclui diversas experiências em desenvolvimento, sempre focado em aprimorar minhas habilidades técnicas e interpessoais. Além da minha dedicação à área de tecnologia, também sou um entusiasta de games e esportes, como vôlei e futebol, que me ajudam a manter o equilíbrio entre foco e criatividade. 🧠
 
 ##  Skills 🦾
 
@@ -24,6 +15,7 @@ class Skills extends Developer {
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![Flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=black)
 ![Php](https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=blue)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-4bb9d6?style=for-the-badge&logo=react&logoColor=20232A)
@@ -57,5 +49,6 @@ class Skills extends Developer {
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-freitas-51a4b723b/)
+<a href = "mailto:vitorfreitas.furg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-962408?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br>
