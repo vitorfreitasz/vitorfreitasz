@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-- Olá, me chamo Vitor! Tenho 21 anos e mais de um ano de experiência profissional no desenvolvimento de software. Atualmente, estou cursando Sistemas de Informação na Universidade Federal do Rio Grande (Furg) e trabalho como desenvolvedor back-end no ITec.
+- Olá, me chamo Vitor! Tenho 21 anos e mais de um ano de experiência profissional no desenvolvimento de software. Atualmente, estou cursando Sistemas de Informação na Universidade Federal do Rio Grande (Furg) e trabalho como desenvolvedorfull-stack.
 
 - Minha trajetória inclui diversas experiências em desenvolvimento, sempre focado em aprimorar minhas habilidades técnicas e interpessoais. Além da minha dedicação à área de tecnologia, também sou um entusiasta de games e esportes, como vôlei e futebol, que me ajudam a manter o equilíbrio entre foco e criatividade. 🧠
 
